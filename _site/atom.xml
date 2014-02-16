@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>craftsbot</title>
+ <link href="http://craftsbot.com/atom.xml" rel="self"/>
+ <link href="http://craftsbot.com/"/>
+ <updated>2014-02-16T11:38:45+07:00</updated>
+ <id>http://craftsbot.com</id>
+ <author>
+   <name>craftsbot</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Hello</title>
+   <link href="http://craftsbot.com/posts/hello"/>
+   <updated>2014-02-15T00:00:00+07:00</updated>
+   <id>http://craftsbot.com/posts/hello</id>
+   <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://github.com/holman/left&quot;&gt;Left&lt;/a&gt; to get this site up and running.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
