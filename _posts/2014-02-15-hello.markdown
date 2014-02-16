@@ -1,0 +1,10 @@
+---
+layout: post
+title: Hello
+category: posts
+---
+
+Thanks to [Jekyll][jekyll] and [Left][left] to get this site up and running.
+
+[jekyll]: http://jekyllrb.com/
+[left]: https://github.com/holman/left

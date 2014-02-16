@@ -1,0 +1,12 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: craftsbot
+url: http://craftsbot.com
+description: a robot makes a mess.
+twitter: hotrannam
+github: hotrannam
+gravatar_url: http://gravatar.com/avatar/a64c9dedd4d95d8c1575a4ba15511500
